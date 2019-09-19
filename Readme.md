@@ -6,7 +6,7 @@
 ####运行脚本（项目文件夹下运行）
 ```
 pip3.6 install -r requirements.txt
-python3.6 WikiTag.py
+python3.6 application.py
 ```
 #### 运行说明
 
